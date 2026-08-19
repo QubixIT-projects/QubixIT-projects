@@ -1,16 +1,20 @@
-## Hi there 👋
+# Qubix IT
 
-<!--
-**QubixIT-projects/QubixIT-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building technology that solves real problems.
 
-Here are some ideas to get you started:
+Qubix IT is a technology company working across **Cybersecurity, Web Development, Software Engineering, UI/UX, and Digital Design.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We believe in building **useful technology, meaningful experiences, and solutions around real needs.**
+
+### What we do
+
+`Cybersecurity` · `Web` · `Software` · `UI/UX` · `Design` · `Innovation`
+
+### 🚀 Building
+
+**QARIZE** — *Rise Beyond Expectations.*
+
+---
+
+**Qubix IT**
+*Where ideas become technology.*
